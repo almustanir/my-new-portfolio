@@ -1,11 +1,11 @@
-import React from 'react'
-
 const App = () => {
   return (
+    <main>
     <div>
-      ftjhkhllj
-      
+      <h1>Welcome to my 3D Portfolio</h1>
     </div>
+        
+    </main>
     
   )
 }
